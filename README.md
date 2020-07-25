@@ -1,7 +1,7 @@
 ### Hi there 👋
 website: [**lcsrg.me**](lcsrg.me)
 
-Sponsor my work: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes)
+[![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes)
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
