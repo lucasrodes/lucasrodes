@@ -1,8 +1,13 @@
 ### Hi there 👋
-[![lucasrodes's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue)]()
 
-[![lucasrodes's github stats](https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue" />
+</a>
 
+website: [**lcsrg.me**](lcsrg.me)
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
