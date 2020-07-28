@@ -2,9 +2,8 @@
 My name is Lucas and I code out of passion and joy.
 
 
-website: [**lcsrg.me**](lcsrg.me)
-
-support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes) [![Amazon](https://img.shields.io/badge/amazon-wish_list-blue.svg?&color=ffa000&logo=amazon&)](https://www.amazon.es/hz/wishlist/ls/2CJGFTQGWSBOP?ref_=wl_share)
+- website: [**lcsrg.me**](lcsrg.me)
+- support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes) [![Amazon](https://img.shields.io/badge/amazon-wish_list-blue.svg?&color=ffa000&logo=amazon&)](https://www.amazon.es/hz/wishlist/ls/2CJGFTQGWSBOP?ref_=wl_share)
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
