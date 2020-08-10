@@ -3,7 +3,10 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrodes/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasrg)
 
+[![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
+
 ### Hi 👋
+
 I'm Lucas and I am currently based in Barcelona, working as a Data Scientist.
 
 - 🤝 Interested in open source and free software projects.
