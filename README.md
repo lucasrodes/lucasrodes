@@ -33,6 +33,17 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
 - [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
+## Programming Languages and Technology
+
+<img src = 'https://simpleicons.org/icons/python.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/pandas.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/javascript.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/css3.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/html5.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/git.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/docker.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/googlecloud.svg' width='30'/>
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
