@@ -5,6 +5,16 @@
 
 [![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
 
+<div>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue&include_all_commits=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue&layout=compact" />
+</a>
+</div>
+
+
 ### Hi 👋
 
 I'm Lucas and I am currently based in Barcelona, working as a Data Scientist.
@@ -17,19 +27,6 @@ I'm Lucas and I am currently based in Barcelona, working as a Data Scientist.
 If you like my work, you can support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes) [![Amazon](https://img.shields.io/badge/amazon-wish_list-blue.svg?&color=ffa000&logo=amazon&)](https://www.amazon.es/hz/wishlist/ls/2CJGFTQGWSBOP?ref_=wl_share)
 
 ---
-
-<div>
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue&include_all_commits=true" />
-</a>
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue&layout=compact" />
-</a>
-</div>
-
----
-
-
 
 ### Blog posts
 
