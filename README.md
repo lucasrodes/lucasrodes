@@ -35,6 +35,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 ## Programming Languages and Technology
 
+<img src = 'https://simpleicons.org/icons/gnu.svg' width='30'/><img src = 'https://simpleicons.org/icons/linux.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/python.svg' width='30'/><img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/pandas.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/javascript.svg' width='30'/>
@@ -43,6 +44,8 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <img src = 'https://simpleicons.org/icons/git.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/docker.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/googlecloud.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/latex.svg' width='30'/>
+
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
