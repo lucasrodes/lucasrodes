@@ -20,7 +20,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 <div>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue&include_all_commits=true" />
 </a>
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue&layout=compact" />
