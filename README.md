@@ -18,13 +18,23 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 ---
 
+<div>
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=vue&layout=compact" />
 </a>
+</div>
 
+---
+
+
+
+### Blog posts
+
+- [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
+- [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
