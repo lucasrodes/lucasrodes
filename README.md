@@ -33,8 +33,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
 - [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
-## Programming Languages and Technology
-
+### Utils
 <img src = 'https://simpleicons.org/icons/gnu.svg' width='30'/><img src = 'https://simpleicons.org/icons/linux.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/python.svg' width='30'/><img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/keras.svg' width='30'/>
