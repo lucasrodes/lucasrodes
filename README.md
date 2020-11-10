@@ -34,8 +34,10 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
 ### Utils
-<img src = 'https://simpleicons.org/icons/gnu.svg' width='30'/><img src = 'https://simpleicons.org/icons/linux.svg' width='30'/>
-<img src = 'https://simpleicons.org/icons/python.svg' width='30'/><img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/gnu.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/linux.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/python.svg' width='30'/>
+<img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/keras.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/pandas.svg' width='30'/>
 <img src = 'https://simpleicons.org/icons/javascript.svg' width='30'/>
