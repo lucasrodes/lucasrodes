@@ -40,6 +40,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="https://www.gnu.org/software/bash/"><img alt="GNU Bash" src='https://simpleicons.org/icons/gnubash.svg' width='30'/></a>
 <a href="https://centos.org/"><img alt="CentOS" src='https://simpleicons.org/icons/centos.svg' width='30'/></a>
 <a href="https://manjaro.org/"><img alt="Manjaro" src='https://simpleicons.org/icons/manjaro.svg' width='30'/></a>
+<a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" src='https://simpleicons.org/icons/raspberrypi.svg' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://simpleicons.org/icons/python.svg' width='30'/></a>
 <a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://simpleicons.org/icons/tensorflow.svg' width='30'/></a>
 <a href="https://www.keras.io/"><img alt="Keras" src='https://simpleicons.org/icons/keras.svg' width='30'/></a>
