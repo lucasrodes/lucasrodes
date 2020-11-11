@@ -33,13 +33,28 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
 - [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
-### Utils
-<img src = 'https://simpleicons.org/icons/gnu.svg' width='30'/><img src = 'https://simpleicons.org/icons/linux.svg' width='30'/>
-<img src = 'https://simpleicons.org/icons/python.svg' width='30'/><img src = 'https://simpleicons.org/icons/tensorflow.svg' width='30'/><img src = 'https://simpleicons.org/icons/keras.svg' width='30'/><img src = 'https://simpleicons.org/icons/pandas.svg' width='30'/><img src = 'https://simpleicons.org/icons/javascript.svg' width='30'/><img src = 'https://simpleicons.org/icons/css3.svg' width='30'/><img src = 'https://simpleicons.org/icons/html5.svg' width='30'/><img src = 'https://simpleicons.org/icons/git.svg' width='30'/><img src = 'https://simpleicons.org/icons/docker.svg' width='30'/><img src = 'https://simpleicons.org/icons/googlecloud.svg' width='30'/><img src = 'https://simpleicons.org/icons/latex.svg' width='30'/>
-
----
+### Technologies
 
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
+<a href="https://www.linux.org/"><img alt="Linux" src='https://simpleicons.org/icons/linux.svg' width='30'/></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="GNU Bash" src='https://simpleicons.org/icons/gnubash.svg' width='30'/></a>
+<a href="https://manjaro.org/"><img alt="Manjaro" src='https://simpleicons.org/icons/manjaro.svg' width='30'/></a>
+<a href="https://www.python.org/"><img alt="Python" src='https://simpleicons.org/icons/python.svg' width='30'/></a>
+<a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://simpleicons.org/icons/tensorflow.svg' width='30'/></a>
+<a href="https://www.keras.io/"><img alt="Keras" src='https://simpleicons.org/icons/keras.svg' width='30'/></a>
+<a href="https://numpy.org/"><img alt="NumPy" src='https://simpleicons.org/icons/numpy.svg' width='30'/></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src='https://simpleicons.org/icons/pandas.svg' width='30'/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScrip" src='https://simpleicons.org/icons/javascript.svg' width='30'/></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src='https://simpleicons.org/icons/css3.svg' width='30'/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5/"><img alt="HTML" src='https://simpleicons.org/icons/html5.svg' width='30'/></a>
+<a href="https://git-scm.com/"><img alt="Git" src='https://simpleicons.org/icons/git.svg' width='30'/></a>
+<a href="https://www.docker.com//"><img alt="Docker" src='https://simpleicons.org/icons/docker.svg' width='30'/></a>
+<a href="https://cloud.google.com/"><img alt="Google Cloud" src='https://simpleicons.org/icons/googlecloud.svg' width='30'/></a>
+<a href="https://www.latex-project.org"><img alt="LaTeX" src='https://simpleicons.org/icons/latex.svg' width='30'/></a>
+<a href="https://www.nvidia.com/"><img alt="NVIDIA" src='https://simpleicons.org/icons/nvidia.svg' width='30'/></a>
+<a href="https://jira.com"><img alt="Jira" src='https://simpleicons.org/icons/jira.svg' width='30'/></a>
+<a href="https://trello.com/"><img alt="Trello" src='https://simpleicons.org/icons/trello.svg' width='30'/></a>
+<a href="https://slack.com/"><img alt="Slack" src='https://simpleicons.org/icons/slack.svg' width='30'/></a>
                                
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
