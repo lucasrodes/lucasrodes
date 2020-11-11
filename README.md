@@ -38,6 +38,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
 <a href="https://www.linux.org/"><img alt="Linux" src='https://simpleicons.org/icons/linux.svg' width='30'/></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="GNU Bash" src='https://simpleicons.org/icons/gnubash.svg' width='30'/></a>
+<a href="https://centos.org/"><img alt="CentOS" src='https://simpleicons.org/icons/centos.svg' width='30'/></a>
 <a href="https://manjaro.org/"><img alt="Manjaro" src='https://simpleicons.org/icons/manjaro.svg' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://simpleicons.org/icons/python.svg' width='30'/></a>
 <a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://simpleicons.org/icons/tensorflow.svg' width='30'/></a>
@@ -49,6 +50,9 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="https://en.wikipedia.org/wiki/HTML5/"><img alt="HTML" src='https://simpleicons.org/icons/html5.svg' width='30'/></a>
 <a href="https://git-scm.com/"><img alt="Git" src='https://simpleicons.org/icons/git.svg' width='30'/></a>
 <a href="https://www.docker.com//"><img alt="Docker" src='https://simpleicons.org/icons/docker.svg' width='30'/></a>
+<a href="https://travis-ci.org/"><img alt="Travis CI" src='https://simpleicons.org/icons/travisci.svg' width='30'/></a>
+<a href="https://codecov.io/"><img alt="Codecov" src='https://simpleicons.org/icons/codecov.svg' width='30'/></a>
+<a href="https://slack.com/"><img alt="Slack" src='https://simpleicons.org/icons/slack.svg' width='30'/></a>
 <a href="https://cloud.google.com/"><img alt="Google Cloud" src='https://simpleicons.org/icons/googlecloud.svg' width='30'/></a>
 <a href="https://www.latex-project.org"><img alt="LaTeX" src='https://simpleicons.org/icons/latex.svg' width='30'/></a>
 <a href="https://www.nvidia.com/"><img alt="NVIDIA" src='https://simpleicons.org/icons/nvidia.svg' width='30'/></a>
