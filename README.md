@@ -42,12 +42,10 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="https://manjaro.org/"><img alt="Manjaro" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/512px-Manjaro-logo.svg.png' width='30'/></a>
 <a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" src='https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://www.vectorlogo.zone/logos/python/python-icon.svg' width='30'/></a>
-<a href="https://scikit-learn.org"><img alt="Scikit-learn" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width='30'/>
-<a href="https://xgboost.ai/"><img alt="XGBoost" src='https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png' width='30'/>
-<a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width='30'/></a>
+<a href="https://scikit-learn.org"><img alt="Scikit-learn" src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' width='30'/><a href="https://xgboost.ai/"><img alt="XGBoost" src='https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png' width='30'/><a href="https://www.tensorflow.org/"><img alt="Tensorflow" src='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' width='30'/></a>
 <a href="https://www.keras.io/"><img alt="Keras" src='https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg' width='30'/></a>
 <a href="https://numpy.org/"><img alt="NumPy" src='https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg' width='30'/></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png' width='30'/></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src='https://simpleicons.org/icons/pandas.svg' width='30'/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScrip" src='https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg' width='30'/></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src='https://raw.githubusercontent.com/manuelbieh/logo-file-icons/0791cbe1bce5d06034087bf70f6d45bb6635c20d/icons/css.svg' width='30'/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5/"><img alt="HTML" src='https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/030-html-5.svg' width='30'/></a>
