@@ -5,7 +5,18 @@
 
 [![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue" />
+<p align="left">
+  <a href="https://github.com/lucasrodes">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasrodes&count_private=true&show_icons=false&theme=vue&custom_title=Stats"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/rjsamra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/api?user=lucasrodes&theme=vue#version3"/>
+  </a>
+</p>
+
 
 <!--
 <div>
