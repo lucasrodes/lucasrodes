@@ -13,10 +13,9 @@
 
 <p align="left">
   <a href="https://github.com/rjsamra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/api?user=lucasrodes&theme=vue#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrodes&theme=vue#version3"/>
   </a>
 </p>
-
 
 <!--
 <div>
