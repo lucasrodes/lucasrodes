@@ -33,8 +33,8 @@
 I'm Lucas and I am currently based in Barcelona, working as a Data Scientist.
 
 - 🤝 Interested in open source and free software projects.
-- ✈️ Current work in Machine Learning in the industry of OTAs
-- 🌎 Previous experience in projects in Germany 🇩🇪, Sweden 🇸🇪 and Japan 🇯🇵.
+- 📊 Currenty at @owid
+- 🌎 Previous experience in projects in Spain 🇪🇸, Germany 🇩🇪, Sweden 🇸🇪 and Japan 🇯🇵.
 
 
 If you like my work, you can support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes) [![Amazon](https://img.shields.io/badge/amazon-wish_list-blue.svg?&color=ffa000&logo=amazon&)](https://www.amazon.es/hz/wishlist/ls/2CJGFTQGWSBOP?ref_=wl_share)
