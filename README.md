@@ -28,6 +28,9 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
 
 ---
 
+<!--
+**lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Stats
 <p align="left">
   <a href="https://github.com/lucasrodes">
@@ -41,8 +44,6 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
   </a>
 </p>
 
-<!--
-**lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
 
