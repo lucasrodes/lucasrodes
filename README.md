@@ -2,14 +2,11 @@
 
 I'm Lucas, based in Barcelona, currently working at @owid as a data analyst. I enjoy automating things.
 
-Get to know my work at my [website](https://lcsrg.me)
+More: [website](https://lcsrg.me)
 
-<a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://simpleicons.org/icons/twitter.svg' width='30'/></a>
-<a href="https://www.linkedin.com/in/lucasrodes"><img alt="GNU" src='https://simpleicons.org/icons/linkedin.svg' width='30'/></a>
-<a href="https://medium.com/@lucasrg"><img alt="GNU" src='https://simpleicons.org/icons/medium.svg' width='30'/></a>
-<a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://simpleicons.org/icons/twitter.svg' width='30'/></a>
-
-[![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
+<a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618746328~hmac=97e8bbed368d3a812abc0b8ea3ad6899' width='30'/></a>
+<a href="https://www.linkedin.com/in/lucasrodes"><img alt="GNU" src='https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1618746425~hmac=75f705344c7cc95a6d991a25616e4d67' width='30'/></a>
+<a href="https://medium.com/@lucasrg"><img alt="GNU" src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='30'/></a>
 
 <p align="left">
   <a href="https://github.com/lucasrodes">
@@ -46,6 +43,9 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
                                
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
+
 
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
 <a href="https://www.linux.org/"><img alt="Linux" src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg' width='30'/></a>
