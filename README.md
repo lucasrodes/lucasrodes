@@ -6,7 +6,7 @@ More: [website](https://lcsrg.me)
 
 <a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618746328~hmac=97e8bbed368d3a812abc0b8ea3ad6899' width='30'/></a>
 <a href="https://www.linkedin.com/in/lucasrodes"><img alt="GNU" src='https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1618746425~hmac=75f705344c7cc95a6d991a25616e4d67' width='30'/></a>
-<a href="https://medium.com/@lucasrg"><img alt="GNU" src='https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png' width='30'/></a>
+<a href="https://medium.com/@lucasrg"><img alt="GNU" src='https://brandeps.com/icon-download/M/Medium-icon-vector-07.svg' width='30'/></a>
 
 <p align="left">
   <a href="https://github.com/lucasrodes">
