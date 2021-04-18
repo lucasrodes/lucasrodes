@@ -1,12 +1,5 @@
 ## Hi 👋
-<p><a href="https://www.twitter.com/lucasrodesg"><img alt="Twitter logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1618746962~hmac=2cc37eed3b7098b04def0d7824b9276f' width='25'/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/lucasrodes"><img alt="Linkedin logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1618746958~hmac=6ee8a4b4179e2e8332675e34813b67b0' width='25'/></a>&nbsp;
-  <a href="https://medium.com/@lucasrg"><img alt="Medium logo" src='https://brandeps.com/icon-download/M/Medium-icon-vector-07.svg' width='25'/></a></p>
-
 I'm Lucas, based in Barcelona, currently working at @owid as a data analyst. I enjoy automating things.
-
-### Contact
-More in my [website](https://lcsrg.me)
 
 <!--
 <div>
@@ -19,8 +12,6 @@ More in my [website](https://lcsrg.me)
 </div>
 -->
 
----
-
 ### Blog posts
 
 - [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
@@ -28,7 +19,16 @@ More in my [website](https://lcsrg.me)
 
 ### Technologies
 My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
-                               
+
+---
+### Contact
+<p><a href="https://www.twitter.com/lucasrodesg"><img alt="Twitter logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1618746962~hmac=2cc37eed3b7098b04def0d7824b9276f' width='25'/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lucasrodes"><img alt="Linkedin logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1618746958~hmac=6ee8a4b4179e2e8332675e34813b67b0' width='25'/></a>&nbsp;
+  <a href="https://medium.com/@lucasrg"><img alt="Medium logo" src='https://brandeps.com/icon-download/M/Medium-icon-vector-07.svg' width='25'/></a></p>
+
+[website](https://lcsrg.me)
+---
+
 ### Stats
 <p align="left">
   <a href="https://github.com/lucasrodes">
