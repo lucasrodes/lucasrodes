@@ -1,7 +1,13 @@
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://lcsrg.me/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucasrodesg)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrodes/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasrg)
+## Hi 👋
+
+I'm Lucas, based in Barcelona, currently working at @owid as a data analyst. I enjoy automating things.
+
+Get to know my work at my [website](https://lcsrg.me)
+
+<a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://simpleicons.org/icons/twitter.svg' width='30'/></a>
+<a href="https://www.linkedin.com/in/lucasrodes"><img alt="GNU" src='https://simpleicons.org/icons/linkedin.svg' width='30'/></a>
+<a href="https://medium.com/@lucasrg"><img alt="GNU" src='https://simpleicons.org/icons/medium.svg' width='30'/></a>
+<a href="https://www.twitter.com/lucasrodesg"><img alt="GNU" src='https://simpleicons.org/icons/twitter.svg' width='30'/></a>
 
 [![](https://views.whatilearened.today/views/github/lucasrodes/lucasrodes.svg)](http://github.com/lucasrodes/lucasrodes)
 
@@ -28,17 +34,6 @@
 </div>
 -->
 
-### Hi 👋
-
-I'm Lucas and I am currently based in Barcelona, working as a Data Scientist.
-
-- 🤝 Interested in open source and free software projects.
-- 📊 Currenty at @owid
-- 🌎 Previous experience in projects in Spain 🇪🇸, Germany 🇩🇪, Sweden 🇸🇪 and Japan 🇯🇵.
-
-
-If you like my work, you can support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/lucasrodes)](https://www.paypal.me/lucasrodes) [![Amazon](https://img.shields.io/badge/amazon-wish_list-blue.svg?&color=ffa000&logo=amazon&)](https://www.amazon.es/hz/wishlist/ls/2CJGFTQGWSBOP?ref_=wl_share)
-
 ---
 
 ### Blog posts
@@ -47,6 +42,10 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
 
 ### Technologies
+My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
+                               
+<!--
+**lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.gnu.org/"><img alt="GNU" src='https://simpleicons.org/icons/gnu.svg' width='30'/></a>
 <a href="https://www.linux.org/"><img alt="Linux" src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg' width='30'/></a>
@@ -73,10 +72,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="https://jira.com"><img alt="Jira" src='https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg' width='30'/></a>
 <a href="https://trello.com/"><img alt="Trello" src='https://www.vectorlogo.zone/logos/trello/trello-icon.svg' width='30'/></a>
 </a>
-                               
-<!--
-**lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
