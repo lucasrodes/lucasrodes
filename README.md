@@ -22,11 +22,9 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
 
 ---
 ### Contact
-[website](https://lcsrg.me) <p><a href="https://www.twitter.com/lucasrodesg"><img alt="Twitter logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1618746962~hmac=2cc37eed3b7098b04def0d7824b9276f' width='25'/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/lucasrodes"><img alt="Linkedin logo" src='https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1618746958~hmac=6ee8a4b4179e2e8332675e34813b67b0' width='25'/></a>&nbsp;
+[website](https://lcsrg.me) <p><a href="https://www.twitter.com/lucasrodesg"><img alt="Twitter logo" src='https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter-300x300.png' width='25' style="--color_fill: #fff;"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lucasrodes"><img alt="Linkedin logo" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' width='25'/></a>&nbsp;
   <a href="https://medium.com/@lucasrg"><img alt="Medium logo" src='https://brandeps.com/icon-download/M/Medium-icon-vector-07.svg' width='25'/></a></p>
-
-
 
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
