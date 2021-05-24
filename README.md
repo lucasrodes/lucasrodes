@@ -22,9 +22,7 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
 
 ---
 ### Contact
-[website](https://lcsrg.me) <p><a href="https://www.twitter.com/lucasrodesg"><img alt="Twitter logo" src='https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter-300x300.png' width='25' style="--color_fill: #fff;"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/lucasrodes"><img alt="Linkedin logo" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' width='25'/></a>&nbsp;
-  <a href="https://medium.com/@lucasrg"><img alt="Medium logo" src='https://brandeps.com/icon-download/M/Medium-icon-vector-07.svg' width='25'/></a></p>
+[website](https://lcsrg.me) / [@lucasrodesg](https://www.twitter.com/lucasrodesg) (Twitter) / [linkedin](https://www.linkedin.com/in/lucasrodes) / [medium](https://medium.com/@lucasrg)
 
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
