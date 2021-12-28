@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm Lucas, based in Barcelona, currently working at [@owid](github.com/owid) as a data analyst. I enjoy automating things.
+I'm Lucas (he/him), based in Barcelona, currently working at [@owid](github.com/owid) as a data analyst. I enjoy automating things.
 
 <!--
 <div>
@@ -22,7 +22,7 @@ My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_
 
 ---
 ### Contact
-[website](https://lcsrg.me) / [@lucasrodesg](https://www.twitter.com/lucasrodesg) (Twitter) / [linkedin](https://www.linkedin.com/in/lucasrodes) / [medium](https://medium.com/@lucasrg)
+[website](https://lcsrg.me) / [twitter](https://www.twitter.com/lucasrodesg) / [linkedin](https://www.linkedin.com/in/lucasrodes) / [medium](https://medium.com/@lucasrg)
 
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
