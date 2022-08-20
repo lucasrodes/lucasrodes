@@ -12,12 +12,6 @@ I'm Lucas (he/him), based in Barcelona, currently working at [@owid](github.com/
 </div>
 -->
 
-### Blog posts
-
-- [Running Jupyter on a remote Docker container using SSH](https://towardsdatascience.com/using-jupyter-notebook-running-on-a-remote-docker-container-via-ssh-ea2c3ebb9055)
-- [Exploring WhatsApp data - Analyze your WhatsApp chat data using Python](https://towardsdatascience.com/analyzing-whatsapp-chats-with-python-20d62ce7fe2d)
-
-### Technologies
 My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
 
 ---
