@@ -1,5 +1,5 @@
-## Hi 👋
-I'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://github.com/owid) as a data analyst. I enjoy automating things.
+## hi 👋
+i'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://github.com/owid) as a data analyst. I enjoy automating things.
 
 <!--
 <div>
@@ -12,7 +12,7 @@ I'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://git
 </div>
 -->
 
-My main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
+my main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
 
 ---
 ### Contact
