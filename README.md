@@ -15,7 +15,7 @@ i'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://git
 my main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
 
 ---
-### Contact
+### contact
 [website](https://lcsrg.me) / [twitter](https://www.twitter.com/lucasrodesg) / [linkedin](https://www.linkedin.com/in/lucasrodes) / [medium](https://medium.com/@lucasrg)
 
 <!--
