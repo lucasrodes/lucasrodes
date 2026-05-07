@@ -1,5 +1,5 @@
 ## hi 👋
-i'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://github.com/owid) as a data scientist. I enjoy automating things.
+i'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://github.com/owid) as a data scientist. I enjoy automating things, be it code or a leaky hose for my veggies.
 
 <!--
 <div>
