@@ -12,10 +12,10 @@ i'm Lucas (he/him), based in Barcelona, currently working at [@owid](https://git
 </div>
 -->
 
-my main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/).
+my main tools are [python](python.org), [SQL](https://www.w3schools.com/sql/sql_intro.asp) and [Git](https://git-scm.com/). And well, [claude](claude.ai) too.
 
 
-**contact**: [website](https://lcsrg.me) / [bluesky](https://bsky.app/profile/lcsrg.me) / [linkedin](https://www.linkedin.com/in/lucasrodes) / [medium](https://medium.com/@lucasrg)
+**contact**: [website](https://lcsrg.me) / [bluesky](https://bsky.app/profile/lcsrg.me) / [linkedin](https://www.linkedin.com/in/lucasrodes)
 
 <!--
 **lucasrodes/lucasrodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
